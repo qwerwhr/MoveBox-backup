@@ -1,3 +1,29 @@
+目前赞助项目有：
+      油小猴（网盘直链下载助手）
+      venra
+      PiliPlus
+      iptv-api
+      drpy-node
+      danmu-api
+网盘搜索：
+      [panhub](https://panhub.shenzjd.com/)
+      [pansou]((https://pansou.de/)/)
+采集网：
+      红牛影视
+开发工具：
+        workbuddy
+        千文办公
+目前实现功能：
+  采集网获取资源，播放
+  网盘搜索，网盘直链解析，网盘cookie登录
+  直播资源
+
+后续改善：
+  引入红果短剧、抖音，抖音直播，快手、快手直播，虎牙直播、bilibli等采集资源
+  改善漫画源的登录配置
+  改善小说的配置
+  Alist\webdav
+
 # MoveBox
 基于Flutter的MoveBox的Vibe Coding开发的立项
 
