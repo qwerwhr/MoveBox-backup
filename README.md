@@ -28,8 +28,8 @@
 目前开发的分支有：<br>
 github负责项目软件打包与软件更新专用仓库（公开仓库）:https://github.com/qwerwhr/MoveBox-D<br>
 github负责项目开发日志与介绍仓库（公开仓库）:https://github.com/qwerwhr/MoveBox-backup<br>
-github负责完整项目代码开发与环境（私有仓库）：:https://github.com/qwerwhr/MoveBox<br>
-gitcode负责完整项目代码开发与环境（私有仓库）：https://gitcode.com/qwerwhr/MoveBox-all<br>
+github负责完整项目代码开发与环境（私有仓库，git提交版本）：:https://github.com/qwerwhr/MoveBox<br>
+gitcode负责完整项目代码开发与环境（私有仓库,完整ZIP版本）：https://gitcode.com/qwerwhr/MoveBox-all<br>
 后续推出更多代码托管平台。<br>
 
 # MoveBox
